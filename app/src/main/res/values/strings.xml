@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">JobRecord</string>
+
+    <string name="type_prompt">Choose a Job Type</string>
+    <string name="Length_prompt">Choose hours</string>
+    <string name="str">Add</string>
+    <string name="create">Add new job</string>
+    <string name="TESXT">New TextView</string>
+    <string name="client_address">Client Address</string>
+    <string name="client_details">Client Details</string>
+    <string name="client_email">Client Email</string>
+    <string name="client_mobile">Client Mobile</string>
+    <string name="client_name">Client Name</string>
+    <string name="client_phone">Client Phone</string>
+    <string name="done">Done</string>
+    <string name="enter_client_name">Enter Client Name</string>
+    <string name="enter_job_address">Enter Job Address</string>
+    <string name="job_description">Job Description</string>
+    <string name="select_job_type">Select Job Type</string>
+    <string name="select_job_typehint">Select Job Type</string>
+    <string name="hello">hello</string>
+    <string name="select_hours_worked">Select hours worked</string>
+    <string name="select_hours_worked1">Select Hours Worked</string>
+    <string name="quote_description">Quote Description</string>
+    <string name="items_to_install">Items To Install</string>
+
+    <string-array name="type_arrays">
+        <item>Job</item>
+        <item>Quote</item>
+    </string-array>
+
+    <string-array name="Itemsarray">
+        <item>Light</item>
+        <item>Fan</item>
+        <item>Solar Panels</item>
+    </string-array>
+
+    <string-array name="Length_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>

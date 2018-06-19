@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_c97d69503e13166ecb076d9b7ec9ba75e657540b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_4eed9741b88541ec8961158d20cc08bc842fc638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_ba3acc6134796f14076c755e3da1177596b6a7fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_31db04262ba0020dc17f0a383eb1383d47b3d792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_3adc7d50823c02eba00f2e48709b8c31883bd63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_946c7e6add155d5d0cfa5f441f2b1950afb4644a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ccefd95452eda84cc17eb6834aff319b9e059a91">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78ad43f88751ef701afb1c0fb4b3df866e0b89e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_de4d310aa2df4c76d59a8beab7a1ff132d3ee1b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_250e1f385af8a39e31ee8ab5d4fc149ca67bef3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_de953b342a37fc8c087219193678e55f6b6a7852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_32f2863c50fccabfec269ec0634283b40ba26dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rudla\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_56c3476e7103c7179d05e85982246422d91b2157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0d387ea37eb1d52fa68581f3995114745a8ccdc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e5a8f6009b5e611a30f818ff0fabdaf9b754c42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_cf9d50f6369677c53f7bb7bf5373eff6b6bb6a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f88267b04d75d42ee0ec62c57c35cc55ad37e306">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef25f4a7df53044b81fdcd99867ca078f6024d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_453e75869cd0ca38e3f6125ecf7da9c944bdd144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_c1205043cfd9469dacf5123a8de989e71643c20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_955815489c396f2ee1cf99c86bba21d720a35c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_7776c973c5f3b74c50c579742701b829b6b54663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_25a4e379f617f9de28b8d3904de7339418b7b568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_913513ae7c082a9c5f8b66ce6c08159deaea34d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Projects\JobRecord\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Android Projects\JobRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e8432646cab2ed391ff398a14ccbb99fc0d3e0d6\classes.dex" />
+    </item>
+
+</items>
